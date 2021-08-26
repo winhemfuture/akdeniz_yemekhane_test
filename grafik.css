@@ -1,0 +1,42 @@
+body
+{
+background-image: url(arkaplan.jpg);
+}
+div
+{
+background-color:orange;
+display:block;
+border: 2px solid red;
+width:800px;
+margin:25px auto;
+text-align:center;
+}
+h1{
+text-align:center;
+font-family:Comic Sans MS;
+color:white;
+background-color:orange;
+padding-top:50px;
+padding-bottom:50px;	
+}
+p
+{
+	font-family:Tahoma;
+	font-style:bold;
+}
+#ana_menu
+{
+text-align:center;
+background-color:#000066;
+padding:1px;
+}
+#ana_menu li 
+{
+font-family:Comic Sans MS;
+display: inline-block;
+list-style:none;
+padding-left:50px;
+padding-right:50px;
+}
+#ana_menu li a:link{color:white;text-decoration:none;}
+#ana_menu li a:visited{color:white;text-decoration:none;}
